@@ -1,4 +1,10 @@
 HAIIII
 HOW R U!??
 
+<<<<<<< Updated upstream
 learning git
+=======
+LEARNING GIT
+
+ohh godd
+>>>>>>> Stashed changes
