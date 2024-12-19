@@ -1,4 +1,10 @@
 HAIIII
 HOW R U!??
+<<<<<<< HEAD
 
 LEARNING GIT
+=======
+learning git
+LEARNING GIT
+ohh god
+>>>>>>> master
